@@ -22,7 +22,7 @@ The pegged cryptocurrency allows users to mint new tokens by depositing an equiv
 
    ```
    git clone https://github.com/StephanFWard/rust-pegged-cryptocurrency.git
-   cd substrate-pegged-cryptocurrency
+   cd rust-pegged-cryptocurrency
 
 2. **Build the project:**
    ```
@@ -30,18 +30,18 @@ The pegged cryptocurrency allows users to mint new tokens by depositing an equiv
 
 3. **Run the substrate node:**
    ```
-   ./target/release/substrate-pegged-cryptocurrency --dev
+   ./target/release/rust-pegged-cryptocurrency --dev
 
 4. **Interact with the node using the Substrate UI or Polkadot JS Apps.**
 Mint new tokens:
 
    ```
-   ./target/release/substrate-pegged-cryptocurrency mint <your-account-id> <amount>
+   ./target/release/rust-pegged-cryptocurrency mint <your-account-id> <amount>
 
 5. **Burn tokens:**
 
    ```
-   ./target/release/substrate-pegged-cryptocurrency burn <your-account-id> <amount>
+   ./target/release/rust-pegged-cryptocurrency burn <your-account-id> <amount>
 
 6. **Run tests using:**
 
