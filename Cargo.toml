@@ -1,0 +1,14 @@
+[package]
+name = "substrate-pegged-cryptocurrency"
+version = "0.1.0"
+edition = "2021"
+
+# Include dependencies and other metadata
+[dependencies]
+sp-core = "2.0.0"
+sp-runtime = "2.0.0"
+# ... other dependencies
+
+[lib]
+# Specify the main Rust file for the library
+path = "runtime/lib.rs"

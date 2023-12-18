@@ -1,0 +1,6 @@
+{
+    "runtime": {
+      "wasm": "target/rust-pegged-cryptocurrency-runtime.wasm"
+    }
+  }
+  
