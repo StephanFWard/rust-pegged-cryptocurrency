@@ -20,8 +20,8 @@ The pegged cryptocurrency allows users to mint new tokens by depositing an equiv
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/your-username/substrate-pegged-cryptocurrency.git
+   ```
+   git clone https://github.com/StephanFWard/rust-pegged-cryptocurrency.git
    cd substrate-pegged-cryptocurrency
 
 2. Build the project:
